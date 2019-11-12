@@ -1,3 +1,5 @@
+# This project generate a random password for the user with their own length.
+
 import string
 import random
 
