@@ -1,3 +1,5 @@
+# This Project reads a file full of name and counts how many times each name appeared in it.
+
 counter_dict = {}
 with open('nameslist.txt') as f:
     line = f.readline()
