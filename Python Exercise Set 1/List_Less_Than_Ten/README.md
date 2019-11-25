@@ -1,4 +1,4 @@
-# Exercise 8
+# Exercise 10
 This project will get a number from the user and prints the
 numbers in the list that are less than it (in a separate list).
 
