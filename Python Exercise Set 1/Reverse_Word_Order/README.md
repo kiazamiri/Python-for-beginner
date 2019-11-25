@@ -1,2 +1,2 @@
-# Exercise 14
+# Exercise 16
 This Project take a string from user and prints it backwards.
